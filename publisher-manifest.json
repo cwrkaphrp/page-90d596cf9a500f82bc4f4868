@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "4a845334ab7de1c6eac6ff90",
+  "owner": "cwrkaphrp",
+  "repo": "page-90d596cf9a500f82bc4f4868",
+  "title": "clashmi安卓",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "90d596cf9a500f82bc4f4868",
+      "a": "clashmi安卓",
+      "b": "",
+      "entity": "clashmi安卓",
+      "brand": "clashmi安卓",
+      "separator": "",
+      "path": "index.html",
+      "hash": "c54738c37635235434d1aa9dbc96f3dd28b24b90800ef526fd5b40a27b2f1f43",
+      "content": {
+        "keyword1": "clashmi安卓",
+        "keyword2": "",
+        "primary_entity": "clashmi安卓",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clashmi安卓为您提供优质的安卓VPN客户端下载服务，订阅机场节点，享受稳定高速的网络加速体验，解锁全球内容。",
+          "AI_DESCRIPTION": "clashmi安卓为您提供优质的安卓VPN客户端下载服务，订阅机场节点，享受稳定高速的网络加速体验，解锁全球内容。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        body {\n            font-family: system-ui, -apple-system, sans-serif;\n            margin: 0;\n            padding: 0;\n            background: linear-gradient(to bottom, #0A2540, #1E3A8A);\n            color: #E0F2FE;\n            line-height: 1.6;\n            max-width: 100%;\n        }\n        .container {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n        h1 {\n            font-size: 2.5rem;\n            color: #22D3EE;\n            text-align: center;\n            margin-bottom: 20px;\n        }\n        h2 {\n            font-size: 1.8rem;\n            color: #67E8F9;\n            border-bottom: 2px solid #22D3EE;\n            padding-bottom: 10px;\n            margin-top: 40px;\n        }\n        p {\n            font-size: 1.1rem;\n            margin-bottom: 20px;\n        }\n        ul, ol {\n            padding-left: 20px;\n        }\n        .steps {\n            display: flex;\n            flex-direction: column;\n            gap: 20px;\n        }\n        .step {\n            background: rgba(255,255,255,0.1);\n            padding: 20px;\n            border-radius: 8px;\n            border-left: 5px solid #22D3EE;\n        }\n        .plans {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n            gap: 20px;\n        }\n        .plan {\n            background: rgba(255,255,255,0.05);\n            padding: 20px;\n            border-radius: 8px;\n            border: 2px solid #22D3EE;\n            transition: transform 0.3s;\n        }\n        .plan:hover {\n            transform: translateY(-5px);\n        }\n        .plan.featured {\n            border-color: #67E8F9;\n            transform: scale(1.05);\n        }\n        .plan h3 {\n            color: #67E8F9;\n            margin-bottom: 10px;\n        }\n        .plan a {\n            display: block;\n            margin-top: 15px;\n            background: #22D3EE;\n            color: #0A2540;\n            padding: 12px;\n            text-align: center;\n            border-radius: 4px;\n            text-decoration: none;\n            font-weight: bold;\n        }\n        details {\n            background: rgba(255,255,255,0.1);\n            padding: 15px;\n            border-radius: 8px;\n            margin-bottom: 10px;\n        }\n        summary {\n            font-weight: bold;\n            color: #67E8F9;\n            cursor: pointer;\n            list-style: none;\n        }\n        summary::-webkit-details-marker {\n            display: none;\n        }\n        footer {\n            background: #0A2540;\n            padding: 30px 20px;\n            text-align: center;\n            color: #94A3B8;\n            font-size: 0.9rem;\n        }\n        @media (max-width: 768px) {\n            h1 {\n                font-size: 2rem;\n            }\n            .container {\n                padding: 15px;\n            }\n            .steps {\n                gap: 15px;\n            }\n            .plan {\n                margin-bottom: 15px;\n            }\n        }\n    </style>\n\n\n    <main class=\"container\">\n        <h1>clashmi安卓</h1>\n        <p>clashmi安卓是一款专为安卓设备打造的高端VPN加速器客户端，提供稳定可靠的网络代理加速服务，帮助用户轻松突破地域限制，享受高速稳定的上网体验。</p>\n\n        <section>\n            <h2>使用场景</h2>\n            <ul>\n                <li>旅行出差：全球漫游加速</li>\n                <li>流媒体解锁：Netflix、YouTube、Disney+ 等</li>\n                <li>在线游戏：低延迟游戏加速</li>\n                <li>企业办公：多设备同时在线</li>\n                <li>家庭网络：多台设备共享</li>\n            </ul>\n        </section>\n\n        <section>\n            <h2>快速上手</h2>\n            <div class=\"steps\">\n                <div class=\"step\">\n                    <h3>步骤 1：下载客户端</h3>\n                    <p>访问官网，点击下载最新版clashmi安卓安卓客户端。</p>\n                </div>\n                <div class=\"step\">\n                    <h3>步骤 2：安装应用</h3>\n                    <p>下载完成后，安装并打开客户端。</p>\n                </div>\n                <div class=\"step\">\n                    <h3>步骤 3：订阅账号</h3>\n                    <p>选择适合您的订阅方案，完成支付获取访问凭证。</p>\n                </div>\n                <div class=\"step\">\n                    <h3>步骤 4：连接节点</h3>\n                    <p>选择节点，点击连接即可享受加速服务。</p>\n                </div>\n                <div class=\"step\">\n                    <h3>步骤 5：畅享使用</h3>\n                    <p>随时切换节点，满足不同场景需求。</p>\n                </div>\n            </div>\n        </section>\n\n        <section>\n            <h2>订阅方案</h2>\n            <div class=\"plans\">\n                <div class=\"plan\">\n                    <h3>基础版</h3>\n                    <p>¥15/月</p>\n                    <p>按年付仅需 ¥150/年</p>\n                    <ul>\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                    <a href=\"#download\">立即订阅</a>\n                </div>\n                <div class=\"plan featured\">\n                    <h3>旗舰版</h3>\n                    <p>¥35/月</p>\n                    <p>按年付仅需 ¥350/年</p>\n                    <ul>\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                    <a href=\"#download\">立即订阅</a>\n                </div>\n                <div class=\"plan\">\n                    <h3>团队版</h3>\n                    <p>¥85/月</p>\n                    <p>按年付仅需 ¥850/年</p>\n                    <ul>\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                    <a href=\"#download\">立即订阅</a>\n                </div>\n            </div>\n        </section>\n\n        <section>\n            <h2>常见问题 FAQ</h2>\n            <details>\n                <summary>clashmi安卓是什么？</summary>\n                clashmi安卓是一款专为安卓设备优化的Clash VPN加速器客户端，提供安全稳定的网络代理加速服务。\n            </details>\n            <details>\n                <summary>如何下载clashmi安卓客户端？</summary>\n                请访问官网首页，点击“下载”按钮获取最新安卓客户端。下载完成后直接安装使用。\n            </details>\n            <details>\n                <summary>clashmi安卓支持哪些设备？</summary>\n                主要支持安卓手机、平板等Android设备，同时支持多设备同时在线。\n            </details>\n            <details>\n                <summary>不同订阅方案有什么区别？</summary>\n                基础版适合个人日常使用，旗舰版提供高级流媒体解锁和游戏加速，团队版适合企业多设备和专属服务。\n            </details>\n            <details>\n                <summary>如何订阅和使用？</summary>\n                下载客户端后，选择订阅方案完成支付，即可获取订阅凭证，登录客户端连接节点即可。\n            </details>\n            <details>\n                <summary>售后服务如何？</summary>\n                提供7x24在线支持，旗舰版及以上包含优先工单响应。\n            </details>\n        </section>\n\n        <section id=\"download\">\n            <h2>官方下载</h2>\n            <p>点击下方按钮立即下载clashmi安卓安卓客户端：</p>\n            <a href=\"#\">立即免费下载</a>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n    <footer>\n        <p>© 2024 clashmi安卓. 所有权利保留。</p>\n        <p>友情链接：<a href=\"#\">官网</a> | <a href=\"#\">订阅帮助</a></p>\n        <p>广告合作：<a href=\"#\">联系我们</a></p>\n        <p>网站地图：<a href=\"#\">首页</a> | <a href=\"#\">订阅方案</a></p>\n    </footer>\n\n",
+          "hash": "5f91570901476ff8919ba51ba38d0501922ccccf0799b6cb63a419e3969594d2",
+          "seo": {
+            "title": "clashmi安卓 - 安卓VPN客户端下载 | 机场订阅加速器",
+            "keywords": "clashmi安卓, 安卓VPN, 客户端下载, 机场订阅, 加速器, VPN加速",
+            "description": "clashmi安卓为您提供优质的安卓VPN客户端下载服务，订阅机场节点，享受稳定高速的网络加速体验，解锁全球内容。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qgycbmy.cn",
+    "host": "p-9398afbdc3.qgycbmy.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "724483eacc6ec7c82006760485f75572100c690fbe2e31fa190b8fab8b8c9ca5",
+    "sitemap.xml": "7fbe1a98c1cad16a2ebac8888c6b776fad6ece1e742812c70359fd2ba7ea5104",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "831b6a384ea09f502117500cf85e404000c65758a8152cdacbef02051d4d2865",
+    "robots.txt": "be84d51334278c08de0eec53e11d7c418c94c2ecd097eea77d669fe73ccef693",
+    "a284ffdbdd1f28ba9c2cdd8d0a940a80.txt": "93874ea47b6cd0f08d2c32e5d9da4840508a8c78e6808c746eb4f3b375a2a513"
+  },
+  "revision": "aca53b110da515b3b37c9edf6bda6de1d4217172f871f96f8f4d11d550bdcc3d"
+}
